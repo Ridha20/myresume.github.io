@@ -1,0 +1,17 @@
+
+body{
+  background-color:#f5f3f3;
+  color:rgb(32, 28, 28);
+}
+
+
+ .skills{
+    margin:0;
+    padding: 40px;
+  }
+  section {
+    padding-bottom: 40px;
+  }
+  .card .card-header {
+    cursor: pointer;
+  }
